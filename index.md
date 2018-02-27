@@ -5,7 +5,5 @@
 layout: default
 title: Alex Kim Home
 ---
-<div class="blurb">
-<p>Finding an unanticipated need to update my personal website, I am
-in the process of stitching one together.</p>
-</div>
+
+Hi! I'm Alex.
